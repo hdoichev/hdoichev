@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hdoichev
-- 👀 I’m interested in programming, chess, physics, history and a few other things ... :)
+- Enjoy learning new programming languages, techniques and approaches ... sometimes solutions are much simpler purely based on a viewpoint.
+- Also interested in chess, quantum physics, history and a few other things ... :)
 
 
 <!---
